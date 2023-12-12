@@ -1,6 +1,6 @@
 Welcome to EagleCorps!
-About Us:
-EagleCorps is a purpose-driven coding bootcamp tailored for military veterans seeking a dynamic career in technology. Our program is designed to leverage the unique skills, discipline, and determination acquired through military service, providing a supportive environment for veterans to excel in the tech industry.
+
+About Us: EagleCorps is a purpose-driven skill based training and career platform tailored for military veterans seeking a dynamic career in technology. Our program is designed to leverage the unique skills, discipline, and determination acquired through military service, providing a supportive environment for veterans to excel in the tech industry.
 
 What Sets Us Apart:
 
@@ -18,6 +18,7 @@ Our bootcamp spans 24 weeks, featuring a comprehensive curriculum covering:
 Fundamentals of programming languages (JavaScript, React, Node.js etc.)
 Fundamentals of Software Development
 Web development, including front-end and back-end technologies
+Career Transition 
 
 
 Support and Contact
